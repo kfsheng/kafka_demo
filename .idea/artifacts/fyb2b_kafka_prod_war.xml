@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="fyb2b-kafka-prod:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="fyb2b-kafka-prod-0.1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="fyb2b-kafka-prod:war exploded" />
+    </root>
+  </artifact>
+</component>
